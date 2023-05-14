@@ -1,4 +1,4 @@
-### Меня зовут Андрианова Динара, я являюсь Java-разработчком.
+### Меня зовут Андрианова Динара, я являюсь Java-разработчиком.
 
 ### Мой дипломная работа: https://github.com/IshDinara/pcs-final-diplom
 ### Изучаю алгоритмы: https://github.com/IshDi/Algorithms-Yandex-3.0
