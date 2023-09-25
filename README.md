@@ -1,8 +1,10 @@
 ### Меня зовут Андрианова Динара, я являюсь Java-разработчиком.
 
-### Мой дипломная работа: https://github.com/IshDinara/pcs-final-diplom
-### Изучаю алгоритмы: https://github.com/IshDi/Algorithms-Yandex-3.0
-### Spring: https://github.com/IshDi/Spring-boot-crud
+### Мой дипломная работа: 
+https://github.com/IshDinara/pcs-final-diplom
+
+### Электронная библиотека на Spring:
+https://github.com/IshDi/Library-CRUD
 
 ### Skills 
 <p align="left">
